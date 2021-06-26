@@ -11,6 +11,7 @@ import About from "./Components/About";
 import Services from "./Components/Services";
 import Linegraph from "./Components/Linegraph";
 import Footer from "./Components/Footer";
+import Testimonials from "./Components/Testimonials";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <About />
       <Services />
       <Linegraph />
+      <Testimonials />
       <Footer />
     </div>
   );

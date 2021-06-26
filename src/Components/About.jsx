@@ -17,7 +17,7 @@ const About = () => {
           <div className="row m-5">
             <div data-aos="fade-down" className="container mx-3 my-2">
               <div className="row Feature">
-                <div className="col-md-5 my-3 col-10">
+                <div className="col-md-5 my-2 col-10">
                   <h2 className="FeatureTitle">Streamlined Trading View</h2>
                   <p className="FeatureDescription">
                     Access all the tools you need to understand the crypto
@@ -31,7 +31,7 @@ const About = () => {
               </div>
             </div>
             <hr />
-            <div className="container mx-3 my-1">
+            <div className="container mx-2 my-1">
               <div className="row Feature">
                 <div data-aos="fade-up" className="col-md-6 col-10 text-center">
                   <img className="img-fluid " src={about2} alt="img" />
@@ -48,7 +48,7 @@ const About = () => {
               </div>
             </div>
             <hr />
-            <div className="container mx-3 my-1">
+            <div className="container mx-2 my-1">
               <div className="row Feature">
                 <div data-aos="fade-down" className="col-md-5 col-10">
                   <h2 className="FeatureTitle">My Portfolio</h2>
